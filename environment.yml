@@ -1,0 +1,21 @@
+name: env
+
+dependencies:
+- python=3.6
+- notebook
+
+- pandas
+  #- lxml
+  #- html5lib
+  #- beautifulsoup4
+- matplotlib
+channels:
+- default
+
+
+
+
+
+
+
+
